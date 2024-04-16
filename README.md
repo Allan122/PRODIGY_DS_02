@@ -1,10 +1,11 @@
-# PRODIGY_DS_02
-
 # Titanic - Machine Learning from Disaster
 
-On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew.
-While there was some element of luck involved in surviving, it seems some groups of people were more likely to survive than others.
+![Titanic](https://github.com/RavulakolluNarender/Exploratory_Data_Analysis_Terrorism/assets/45638226/c5f1e280-664b-4ade-981a-a994c14cffae)
 
-The training set should be used to build your machine learning models. For the training set, we provide the outcome (also known as the “ground truth”) for each passenger. Your model will be based on “features” like passengers’ gender and class. You can also use feature engineering to create new features.
+The RMS Titanic disaster on April 15, 1912, revealed patterns in survival rates among passengers. Factors like gender and class played a significant role in determining who survived. We have a dataset that includes information about passengers such as their gender, class, and whether they survived or not.
 
-The test set should be used to see how well your model performs on unseen data. For the test set, we do not provide the ground truth for each passenger. It is your job to predict these outcomes. For each passenger in the test set, use the model you trained to predict whether or not they survived the sinking of the Titanic.
+Our goal is to build a machine learning model using the training set, where we already know the survival outcomes of passengers. This data, known as the "ground truth," will help us train the model to understand which features (like gender and class) are associated with survival.
+
+Once we've trained the model, we will use it to predict the survival outcomes of passengers in the test set. The test set contains data for passengers where the survival outcomes are not provided. Our model's task is to predict whether each passenger in the test set survived the Titanic disaster or not based on their characteristics.
+
+In summary, we're using historical data to train a model that can predict the likelihood of survival for passengers in a hypothetical scenario similar to the Titanic disaster, where we don't know the actual survival outcomes in advance.
