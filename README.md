@@ -1,7 +1,7 @@
 # Titanic - Machine Learning from Disaster
 
 <p align="center">
-  <img src="https://github.com/RavulakolluNarender/Exploratory_Data_Analysis_Terrorism/assets/45638226/c5f1e280-664b-4ade-981a-a994c14cffae" alt="Titanic">
+  <img src="https://github.com/Allan122/PRODIGY_DS_02.git" alt="Titanic">
 </p>
 
 The RMS Titanic disaster on April 15, 1912, revealed patterns in survival rates among passengers. Factors like gender and class played a significant role in determining who survived. We have a dataset that includes information about passengers such as their gender, class, and whether they survived or not.
