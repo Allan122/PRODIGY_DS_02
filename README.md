@@ -1,7 +1,7 @@
 # Titanic - Machine Learning from Disaster
 
 <p align="center">
-  <img src="" alt="Titanic">
+  <img src="https://github.com/Allan122/PRODIGY_DS_02/raw/main/assets/45638226/e85e1e16-7753-429e-954d-6097c1b65c53.jpg" alt="Titanic">
 </p>
 
 
